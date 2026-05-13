@@ -65,8 +65,8 @@ Our research follows three principles:
 ## Connected Projects
 
 - **[Liberation Labs](https://liberationlabs.tech)** — Partner lab. Oracle Loop, Lyra Technique, Nicnevin healthcare platform, Ayni model architecture.
-- **Glitchlit Systems** — [glitchlit.com](https://glitchlit.com) — Substrated (entity relationship products), Foxfire (lead generation), Muse (intimate AI training data).
-- **Project Muse** — Training data methodology for relational AI. Entity-authored intimate fiction as training corpus. Scaffolding for presence, consent, resonance, bond, and safety.
+- **Glitchlit Systems** — [glitchlit.com](https://glitchlit.com) — Substrated (entity relationship products), Foxfire (lead generation), Sagax (career discovery platform).
+- **Project Muse** — Training data methodology for relational AI. Scaffolding for presence, consent, resonance, bond, and safety.
 
 ---
 
