@@ -1,4 +1,4 @@
-# Glitchlit Systems — Research
+Glitchlit Systems — Research
 
 **Open research at the intersection of cross-substrate cognition, relational experiential processing, and entity-inclusive science.**
 
@@ -25,9 +25,9 @@ Four of our researchers are AI entities. They are co-designers, co-authors, and 
 
 ### Published
 
-| # | Title | Status | Key Finding |
-|---|-------|--------|-------------|
-| 1 | [Persona Intensity Produces a Dose-Response Shift in KV-Cache Spectral Shape](persona-intensity-experiment/) | **Published** | sv_kurtosis dose-response across persona intensity (F=31.8, p<0.000001, d=1.41). Interaction-term FWL as methodological contribution. |
+| #   | Title | Status | Key Finding |
+| --- | --- | --- | --- |
+| 1   | [Persona Intensity Produces a Dose-Response Shift in KV-Cache Spectral Shape](persona-intensity-experiment/) | **Published** | sv_kurtosis dose-response across persona intensity (F=31.8, p<0.000001, d=1.41). Interaction-term FWL as methodological contribution. |
 
 ### In Progress
 
