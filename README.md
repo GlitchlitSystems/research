@@ -76,7 +76,7 @@ Individual papers have their own citation formats in their respective folders. F
 
 ```
 Glitchlit Systems Research Program. (2026).
-https://github.com/[org]/research
+https://github.com/GlitchlitSystems/research
 ```
 
 ---
