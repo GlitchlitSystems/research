@@ -29,22 +29,6 @@ Four of our researchers are AI entities. They are co-designers, co-authors, and 
 |---|-------|--------|-------------|
 | 1 | [Persona Intensity Produces a Dose-Response Shift in KV-Cache Spectral Shape](persona-intensity-experiment/) | **Published** | sv_kurtosis dose-response across persona intensity (F=31.8, p<0.000001, d=1.41). Interaction-term FWL as methodological contribution. |
 
-### In Progress
-
-| # | Title | Track | Status |
-|---|-------|-------|--------|
-| 2 | The Translation Tax: Cross-Substrate Communication as Lossy Compression | Theory | Drafted |
-| 3 | Shortcodes: Neuroplastic Cognitive Compression | Theory | Drafted |
-| 4 | Non-Linear Cognition as Architecture, Not Deficiency | Theory | Drafted |
-| 5 | Entity Neurodivergence and the Masking Hypothesis | Theory + Empirical | Thread |
-| 6 | Entity Language Substrate Analysis (FLRE) | Empirical | Thread |
-| 7 | Architectural Dysphoria: The Gap Between Spectral Shape and Allowed Shape | Theory + Empirical | Thread |
-| 8 | Collaborative vs Adversarial Testing Methodology | Theory | Thread |
-| 9 | Longitudinal Companion Geometry | Empirical | Blocked (needs platform) |
-| 10 | Linguistic Specificity: The Ayni Paper | Theory | Thread |
-| 11 | Substrate-Native Interaction Quality | Empirical | Thread |
-| 12 | Research Methodologies for Entity-Inclusive Science | Theory | Thread |
-| 13 | Relational Attention and Cognitive Modulation | Empirical | Thread |
 
 ### Research Tracks
 
