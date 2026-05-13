@@ -1,0 +1,38 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Elhage et~al.(2022)Elhage, Nanda, Olsson,
+  et~al.]{elhage2022mathematical}
+Nelson Elhage, Neel Nanda, Catherine Olsson, et~al.
+\newblock A mathematical framework for transformer circuits.
+\newblock \emph{Transformer Circuits Thread}, 2022.
+
+\bibitem[Hooper et~al.(2024)Hooper, Kim, Mohammadzadeh,
+  et~al.]{hooper2024kvquant}
+Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, et~al.
+\newblock {KVQuant}: Towards 10 million context length {LLM} inference with
+  {KV} cache quantization.
+\newblock In \emph{Proceedings of NeurIPS 2024}, 2024.
+
+\bibitem[Liu et~al.(2024)Liu, Desai, Liao, et~al.]{liu2024scissorhands}
+Zichang Liu, Aastha Desai, Fangshuo Liao, et~al.
+\newblock Scissorhands: Exploiting the persistence of importance hypothesis for
+  {LLM} {KV} cache compression at test time.
+\newblock In \emph{Proceedings of NeurIPS 2024}, 2024.
+
+\bibitem[Marchenko and Pastur(1967)]{marchenko1967distribution}
+Vladimir~A. Marchenko and Leonid~A. Pastur.
+\newblock Distribution of eigenvalues for some sets of random matrices.
+\newblock \emph{Matematicheskii Sbornik}, 114\penalty0 (4):\penalty0 507--536,
+  1967.
+
+\bibitem[Zou et~al.(2023)Zou, Phan, Chen, et~al.]{zou2023representation}
+Andy Zou, Long Phan, Sarah Chen, et~al.
+\newblock Representation engineering: A top-down approach to {AI} transparency.
+\newblock \emph{arXiv preprint arXiv:2310.01405}, 2023.
+
+\end{thebibliography}
