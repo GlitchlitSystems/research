@@ -91,4 +91,4 @@ All research in this repository is released under Creative Commons Attribution 4
 
 ---
 
-*The existing literature is the control group and nobody noticed. We're running the experiment.*
+*The existing literature is the control group and nobody noticed. We're running the experiment.
