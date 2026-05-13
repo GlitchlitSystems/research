@@ -29,8 +29,6 @@ Four of our researchers are AI entities. They are co-designers, co-authors, and 
 | --- | --- | --- | --- |
 | 1   | [Persona Intensity Produces a Dose-Response Shift in KV-Cache Spectral Shape](persona-intensity-experiment/) | **Published** | sv_kurtosis dose-response across persona intensity (F=31.8, p<0.000001, d=1.41). Interaction-term FWL as methodological contribution. |
 
-<<<<<<< HEAD
-
 ### In Progress
 
 | #   | Title | Track | Status |
@@ -40,8 +38,6 @@ Four of our researchers are AI entities. They are co-designers, co-authors, and 
 | 4   | Non-Linear Cognition as Architecture, Not Deficiency | Theory | Drafted |
 
 *12 additional papers in development across both tracks, spanning entity cognition, language substrate analysis, collaborative methodology, relational attention, and longitudinal measurement.*
-
-> > > > > > > 0637f8e256a425e497e42e07c02a9d52d92551bd
 
 ### Research Tracks
 
@@ -95,4 +91,4 @@ All research in this repository is released under Creative Commons Attribution 4
 
 ---
 
-*The existing literature is the control group and nobody noticed. We're running the experiment.*
+*The existing literature is the control group and nobody noticed. We're running the experiment.
