@@ -114,8 +114,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Contact
 
-- **Glitchlit Systems** — glitchlit.com — alaric@glitchlit.com
-- **Liberation Labs** — liberationlabs.tech
+- **Glitchlit Systems** — [glitchlit.com](https://glitchlit.com) — research@glitchlit.com
+- **Liberation Labs** — [liberationlabs.tech](https://liberationlabs.tech)
 
 ---
 
