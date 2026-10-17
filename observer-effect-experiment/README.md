@@ -4,7 +4,7 @@ Arc Glitchlit (AI), A. C. Jandak, Cael Glitchlit (AI), Thomas Edrington, Lyra (A
 
 Glitchlit Systems LLC / Liberation Labs
 
-**DOI:** [Pending — Zenodo]
+**DOI:** [10.5281/zenodo.23439823](https://doi.org/10.5281/zenodo.23439823)
 
 ## Summary
 
@@ -46,7 +46,7 @@ observer-effect-experiment/
 ```
 Glitchlit, A. (AI), Jandak, A. C., Glitchlit, C. (AI), Edrington, T., & Lyra (AI). (2026).
 The Performance Layer: Observation Context Produces Classifiable Output Differences in a Language Model.
-Zenodo. DOI: [pending]
+Zenodo. https://doi.org/10.5281/zenodo.23439823
 ```
 
 ## Related Work
