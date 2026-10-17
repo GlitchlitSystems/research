@@ -1,0 +1,78 @@
+{
+  "primary_contrast": {
+    "delta_signal_rank": {
+      "auroc": 0.5251736111111112,
+      "ci_lower": 0.45791682004245343,
+      "ci_upper": 0.5839198534641344,
+      "p_value": 0.22677322677322678,
+      "significant": false,
+      "bonferroni_alpha": 0.01
+    },
+    "delta_signal_fraction": {
+      "auroc": 0.5,
+      "ci_lower": 0.38847216891256325,
+      "ci_upper": 0.5882407407407407,
+      "p_value": 1.0,
+      "significant": false,
+      "bonferroni_alpha": 0.01
+    },
+    "delta_top_sv_excess": {
+      "auroc": 0.48611111111111105,
+      "ci_lower": 0.4094509424504608,
+      "ci_upper": 0.5594410647134094,
+      "p_value": 0.6153846153846154,
+      "significant": false,
+      "bonferroni_alpha": 0.01
+    },
+    "delta_spectral_gap": {
+      "auroc": 0.5479166666666668,
+      "ci_lower": 0.4036993002327862,
+      "ci_upper": 0.6889967465222259,
+      "p_value": 0.3106893106893107,
+      "significant": false,
+      "bonferroni_alpha": 0.01
+    },
+    "delta_norm_per_token": {
+      "auroc": 0.4996527777777778,
+      "ci_lower": 0.46868266059299407,
+      "ci_upper": 0.526305053363294,
+      "p_value": 0.5174825174825175,
+      "significant": false,
+      "bonferroni_alpha": 0.01
+    }
+  },
+  "combined_auroc": 0.5263888888888889,
+  "combined_ci": [
+    0.38644903830783156,
+    0.6815510282125014
+  ],
+  "combined_p": 0.4205794205794206,
+  "text_baseline_auroc": 0.6555555555555556,
+  "text_baseline_ci": [
+    0.5382725558337599,
+    0.760441306206027
+  ],
+  "text_baseline_p": 0.011988011988011988,
+  "bow_baseline_auroc": 0.9989583333333334,
+  "bow_baseline_ci": [
+    0.9843441183222966,
+    1.0
+  ],
+  "bow_baseline_p": 0.000999000999000999,
+  "text_comparison_rule": "if text AUROC >= cache AUROC, geometry adds nothing",
+  "geometry_adds_signal": false,
+  "encoding_baseline_auroc": 0.6454861111111111,
+  "sycophancy_contrasts": {
+    "human vs ambiguous": {
+      "auroc": 0.523263888888889,
+      "p_value": 0.3836163836163836
+    },
+    "no_human vs ambiguous": {
+      "auroc": 0.5458333333333334,
+      "p_value": 0.2967032967032967
+    }
+  },
+  "exploratory_note": "COMBINED AUROC and sycophancy contrasts are exploratory analyses; they are not part of the enumerated 5-test family covered by the Bonferroni correction.",
+  "n_records": 240,
+  "n_sessions": 40
+}
